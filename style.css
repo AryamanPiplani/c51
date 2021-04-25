@@ -1,0 +1,39 @@
+h1{
+    color:aliceblue
+}
+    h2{
+    color:aliceblue
+    }
+
+    * {
+    
+    border:solid
+    }
+    h3{
+    color:aliceblue    
+    }
+    .header{
+        background-color: #FF0000;;
+    }
+    .profile{
+        display:flex;
+        justify-content: left;
+    }
+    .designs{
+        background-color:#00ffff;
+        display:flex;
+        justify-content: center;
+    
+    }
+    .designs2{
+        background-color:#00ffff;
+        display:flex;
+        justify-content: center;
+      
+    }
+    .footer{
+        background-color: #000000;
+        display:flex;
+        justify-content: center; 
+    }
+    
